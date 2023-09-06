@@ -1,6 +1,6 @@
 int main()
 {
-    int count = 10;
+    int count = 9;
 
     for(int i = 0; i < count; i++) {
         cout << i << endl;
